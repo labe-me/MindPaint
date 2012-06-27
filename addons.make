@@ -1,0 +1,4 @@
+ofxThinkgear
+ofxXmlSettings
+ofxSimpleGuiToo
+ofxMSAInteractiveObject

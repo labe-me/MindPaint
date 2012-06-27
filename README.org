@@ -1,0 +1,15 @@
+* MindPaint
+
+Author: Laurent Bedubourg <laurent@labe.me>
+
+This is a little openFrameworks application I made to play with NeuroSky's headset.
+
+The aim of the application was to create abstract art using human neuronal activity.
+
+I did not finished the application (which doesn't do a lot of art right now) but it's code might inspire other coders.
+
+NOTE: The application contains an interesting FlowerBrush which can reproduce flowers seen in Flowerium http://makotohirahara.com/portfolio/Flowerium/
+
+Fill free to clone and play with the code!
+
+GPL License.
